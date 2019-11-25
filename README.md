@@ -6,10 +6,10 @@ auto return all api info
 ```bash
 npm i -g aok.js
 
-todos 
+aok https://github.com/apporoad/apinfo.js.git -p 10000
 
-aok git
-aok http.zip
-aok 无痕模式
+rm -rf .aok
+
+# now just visit it with postman
 
 ```
