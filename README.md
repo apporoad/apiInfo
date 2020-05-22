@@ -1,5 +1,6 @@
 # apiInfo
-auto return all api info 
+auto return all api info  
+apiInfo 帮你发现中间代理层给你施加的魔法
 
 # plz use aok
 
